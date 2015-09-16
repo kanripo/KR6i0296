@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:35.348660
+#+DATE: 2015-08-30 20:15:37.137741
 #+TITLE: 寶雲經
 #+PROPERTY: CBETA_ID T16n0658
 #+PROPERTY: ID KR6i0296
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 658
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0296_T_004-0228b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《寶雲經》卷第四¶
+《寶雲經》卷第四¶
 ¶
 梁扶南三藏曼陀羅仙譯¶
 
