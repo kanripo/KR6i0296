@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:15
+#+DATE: 2016-06-08 9:16
 #+TITLE: 寶雲經
 #+PROPERTY: CBETA_ID T16n0658
 #+PROPERTY: ID KR6i0296
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 658
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6i0296_T_001-0209a> 
 #+PROPERTY: JUAN 1
 ¶
@@ -179,7 +179,7 @@ No. 658 [No. 659]¶
 彼。莫生下劣放逸之心。何以故？彼界眾生¶
 多諸貪欲、瞋恚、愚癡，不肯恭敬沙門、婆羅門，¶
 好作非法、心意麁弊、惡口罵詈、佷悷難調、¶
-慳貪嫉妬、懈怠懶墮、放逸破戒，無量煩惱之¶
+慳貪嫉妬、懈怠[悚*頁]墮、放逸破戒，無量煩惱之¶
 所縛纏；於惡生中而為說法。」
 
 爾時，彼諸菩¶
