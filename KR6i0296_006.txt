@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:35.404209
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:15
 #+TITLE: 寶雲經
 #+PROPERTY: CBETA_ID T16n0658
 #+PROPERTY: ID KR6i0296
